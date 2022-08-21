@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean</h1>
 <h3 align="center">A curious guy that want to improve skills programming</h3>
 
-- 🌱 I’m currently learning **security stuffs and PHP**
+- 🌱 I’m currently learning **security stuffs, GO and PHP**
 - 👯 I’m looking to collaborate on **open source project**
 - 🤝 I’m looking for help with **pratice katas**
 - ⚡ Fun fact **people says that I'm crazy**
